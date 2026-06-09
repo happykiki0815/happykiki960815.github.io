@@ -1,0 +1,79 @@
+.kikicenter{
+    text-align: center;
+    color: #caa9ce;
+    margin: 20px auto;
+}
+.kiki123{
+    text-align: center;
+    color: #5b7bbb;
+    background-color: rgb(241, 207, 245);
+    padding: 20px;
+    border: 40px;
+    border-radius: 20px;
+    margin: 80px auto;
+    width: 80%;
+    height: 100;
+    overflow: auto;
+    }
+.centercenter{
+    text-align: center;
+}
+a.kikilink{
+    color: rgb(224, 177, 213);
+    padding: 0 30px;
+    border-radius: 50px;
+    background-color: aliceblue;
+}
+a.kikilink:hover{
+    background-color: #a8e3eb;
+    color: #f5edf6;
+}
+.kikibig{
+    font-size: 20px;
+    font-weight: 800;
+}
+.kikigo{
+    font-size: 50px;
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+section#about{
+    background-color:rgb(227, 176, 200);
+    background-image: url("../assets/img/35.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+section#about h1{
+    color:rgb(102, 160, 211);
+}
+section#about div{
+ color:#5b7bbb;
+}
+section#callme{
+    background-color:plum;
+    background-image: url("../assets/img/35.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.color{
+    background-color:rgb(236 220 237);
+}
+.kiki1{
+    background-color: rgb(196 202 229);
+}
+.serif{
+  font-family: "Noto Serif TC", serif;
+}
+.kikipic{
+    width: 98%;
+    border-radius: 10px;
+}
